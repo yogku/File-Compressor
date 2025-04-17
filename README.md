@@ -1,6 +1,6 @@
 
 # Huffman-File-Compressor-Decompressor
-This project demonstrates file compression and decompression using Huffman Coding, built with Python and Tkinter as part of the coursework for **24CAp-612**.
+This project demonstrates file compression and decompression using Huffman Coding, built with Python and Tkinter as part of the coursework for **24CAP-612**.
 
 ## Project Overview
 
