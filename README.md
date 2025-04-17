@@ -24,6 +24,7 @@ The project is structured into three main sections:
 
 ### Flowchart of the Project
 
+
 ```mermaid
 flowchart TD
     A[Start GUI] --> B[Select File to Compress]
@@ -31,7 +32,7 @@ flowchart TD
     C --> D[Build Huffman Tree]
     D --> E[Generate Huffman Codes]
     E --> F[Compress and Save Binary File]
-    F --> G[Save Code Mapping (.codes)]
+    F --> G[Save Code Mapping]
     G --> H[Show Compression Summary]
     H --> I[Done]
 
